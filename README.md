@@ -1,2 +1,2 @@
 # webscrapping-residentevil
-Coleta de dados da "residentevildatabase.com'
+Coleta de dados de personagens de resident evil disponibilizados em residentevildatabase.com
